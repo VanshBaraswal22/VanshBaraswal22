@@ -153,21 +153,6 @@ A collaborative research build that models electricity demand using time-series 
 
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20)
 
-## 📡 LIVE ANALYTICS FEED
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=VanshBaraswal22&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00fff2&icon_color=ff2bd6&text_color=f5f5ff&border_radius=12&hide_rank=true&hide=prs,issues,contribs&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VanshBaraswal22&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff2&text_color=f5f5ff&border_radius=12" width="42%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBaraswal22&bg_color=0d0221&color=00fff2&line=ff2bd6&point=9d4edd&hide_border=true&area=true" width="90%"/>
-
-</div>
-
-<br/>
-
 ## 🌐 3D CONTRIBUTION MATRIX
 
 <div align="center">
@@ -177,8 +162,6 @@ A collaborative research build that models electricity demand using time-series 
 <sub>⚙️ Auto-generated daily via GitHub Actions — isometric 3D render of real commit activity</sub>
 
 </div>
-
-> ⚠️ **This image only appears after you run the workflow once.** It doesn't exist in your repo yet — GitHub Actions generates it the first time you trigger it (Actions tab → GitHub-Profile-3D-Contrib → **Run workflow**). See setup steps below.
 
 <br/>
 
