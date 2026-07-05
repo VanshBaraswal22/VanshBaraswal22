@@ -120,6 +120,7 @@ currently:
 <img src="https://img.shields.io/badge/◆_PROJECT_SPOTLIGHT-0d0221?style=for-the-badge&logoColor=00fff2"/>
 
 ### 🔮 GridSage AI
+
 #### ⚡ Electricity Demand Forecasting Engine
 
 <img src="https://img.shields.io/badge/Team-6_Members-0d0221?style=flat-square&logoColor=00fff2"/>
@@ -132,11 +133,11 @@ A collaborative research build that models electricity demand using time-series 
 
 <br/>
 
-| ⚡ MODULE | 📝 DETAILS |
-|:---|:---|
+| ⚡ MODULE            | 📝 DETAILS                                                                             |
+| :------------------- | :------------------------------------------------------------------------------------- |
 | **Data Engineering** | Cleaned & feature-engineered synthetic hourly datasets with seasonal/peak-hour signals |
-| **Modeling** | Train-test splitting + baseline ML models for demand prediction & evaluation |
-| **Collaboration** | Contributed to shared research documentation & team dev workflow |
+| **Modeling**         | Train-test splitting + baseline ML models for demand prediction & evaluation           |
+| **Collaboration**    | Contributed to shared research documentation & team dev workflow                       |
 
 <br/>
 
@@ -156,7 +157,7 @@ A collaborative research build that models electricity demand using time-series 
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=VanshBaraswal22&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00fff2&icon_color=ff2bd6&text_color=f5f5ff&border_radius=12&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=VanshBaraswal22&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00fff2&icon_color=ff2bd6&text_color=f5f5ff&border_radius=12&hide_rank=true&hide=prs,issues,contribs" width="49%"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VanshBaraswal22&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff2&text_color=f5f5ff&border_radius=12" width="42%"/>
 
 <br/>
@@ -196,7 +197,7 @@ A collaborative research build that models electricity demand using time-series 
 <div align="center">
 
 Always down to collaborate on **full-stack builds, DSA challenges, or ML experiments**.
-Open a channel — hackathon team, open-source PR, or just a tech conversation.
+Open a channel — hackathon team, project collab, or just a tech conversation.
 
 <a href="https://linkedin.com/in/vansh-baraswal"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2"/></a>
 <a href="mailto:vanshbaraswal22@gmail.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2bd6"/></a>
