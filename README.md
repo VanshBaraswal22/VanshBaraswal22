@@ -156,8 +156,8 @@ A collaborative research build that models electricity demand using time-series 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VanshBaraswal22&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00fff2&icon_color=ff2bd6&text_color=f5f5ff&border_radius=12&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBaraswal22&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff2&text_color=f5f5ff&border_radius=12" width="42%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=VanshBaraswal22&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00fff2&icon_color=ff2bd6&text_color=f5f5ff&border_radius=12&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VanshBaraswal22&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff2&text_color=f5f5ff&border_radius=12" width="42%"/>
 
 <br/>
 
@@ -171,11 +171,13 @@ A collaborative research build that models electricity demand using time-series 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VanshBaraswal22/VanshBaraswal22/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 <sub>⚙️ Auto-generated daily via GitHub Actions — isometric 3D render of real commit activity</sub>
 
 </div>
+
+> ⚠️ **This image only appears after you run the workflow once.** It doesn't exist in your repo yet — GitHub Actions generates it the first time you trigger it (Actions tab → GitHub-Profile-3D-Contrib → **Run workflow**). See setup steps below.
 
 <br/>
 
