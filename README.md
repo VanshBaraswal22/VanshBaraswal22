@@ -25,7 +25,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/VanshBaraswal22/VanshBaraswal22/output/snake.svg" alt="snake animation placeholder"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/VanshBaraswal22/VanshBaraswal22/output/github-contribution-grid-snake.svg"/>
 
 ```python
 class Vansh:
