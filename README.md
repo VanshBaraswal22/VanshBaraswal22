@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/vansh-baraswal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vanshbaraswal22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/VanshBaraswal22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="tel:+918439034129"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -25,7 +24,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/VanshBaraswal22/VanshBaraswal22/output/github-contribution-grid-snake.svg"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/VanshBaraswal22/VanshBaraswal22/output/snake.svg" alt="snake animation placeholder"/>
 
 ```python
 class Vansh:
@@ -44,11 +43,11 @@ me.say_hi()
 ```
 
 - 🎓 Currently pursuing **B.Tech in Information Technology** at **HBTU, Kanpur** (2024 – 2028)
+- 🧩 Solved **350+ Data Structures & Algorithms problems** — sharpening problem-solving, one submission at a time
 - 🛠️ Building full-stack projects with **React, Node.js, Express.js & MongoDB**
 - 🤖 Exploring the fundamentals of **Machine Learning** with Python, Pandas & NumPy
 - 🌱 Actively contributing to **GirlScript Summer of Code**
-- 🏆 Scored **96%** in Class X and **92.8%** in Class XII
-- 💬 Ask me about **React, Django, REST APIs, or beginner-friendly ML**
+- 💬 Ask me about **DSA, React, Django, REST APIs, or beginner-friendly ML**
 
 <br/>
 
@@ -62,6 +61,11 @@ me.say_hi()
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### Problem Solving
+<img src="https://img.shields.io/badge/DSA-350%2B_Problems_Solved-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
 ### Frontend
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -87,68 +91,36 @@ me.say_hi()
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" style="padding: 24px;">
 
 ### 🔮 GridSage AI
-**Electricity Demand Forecasting**
+#### ⚡ Electricity Demand Forecasting
 
-Contributed to a 6-member research project building a time-series forecasting system for electricity demand.
+<img src="https://img.shields.io/badge/Team_Project-6_Members-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Domain-Time--Series_Forecasting-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Year-2025-blueviolet?style=flat-square"/>
 
-- 📊 Data preprocessing & feature engineering on synthetic hourly datasets
-- 📈 Train-test splitting with ML models for demand prediction
-- 📝 Collaborative research documentation
+<br/><br/>
 
-`Python` `Pandas` `NumPy` `Machine Learning`
+Contributed to a 6-member research project building a **time-series forecasting system** for electricity demand, using real-world-style seasonal and peak-hour patterns.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🎓 Student Management System
-**Django Web Application**
+| 🔧 What I Did |
+|---|
+| 📊 **Data Preprocessing** — cleaned and engineered features from synthetic hourly datasets with seasonal & peak-hour trends |
+| 📈 **Modeling** — applied train-test splitting and baseline ML models for demand prediction & evaluation |
+| 🤝 **Collaboration** — contributed to research documentation and a shared development workflow |
 
-A complete web-based system to manage student records with clean CRUD functionality.
+<br/>
 
-- ✅ Full CRUD operations with form validation
-- 🗄️ Django ORM for database management
-- 🔧 Version-controlled with Git
-
-`Django` `HTML5` `CSS3` `Git`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ Task Manager
-**Full-Stack To-Do App**
-
-A REST-powered task management app built to strengthen full-stack fundamentals.
-
-- 🔗 Frontend-backend integration via REST APIs
-- 💾 MongoDB for persistent data storage
-- ⚛️ React state management practice
-
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Web Dev Practice Projects
-**MERN Learning Sandbox**
-
-A series of small deployed projects built while learning the MERN stack from the ground up.
-
-- 🎨 Frontend interfaces connected to backend APIs
-- 🛣️ Routing, API handling & component structure
-- ☁️ Deployment fundamentals
-
-`React.js` `Node.js` `Express.js` `MongoDB`
+`Python` `Pandas` `NumPy` `Machine Learning` `Time-Series Analysis`
 
 </td>
 </tr>
@@ -167,43 +139,9 @@ A series of small deployed projects built while learning the MERN stack from the
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshBaraswal22&theme=tokyonight&hide_border=true" width="60%"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBaraswal22&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
-
-<br/>
-
-## 🎓 Education & Certifications
-
-<table align="center">
-<tr>
-<th align="left">🏫 Education</th>
-<th align="left">📅 Duration</th>
-</tr>
-<tr>
-<td>B.Tech, Information Technology — Harcourt Butler Technical University (HBTU), Kanpur</td>
-<td>2024 – 2028 (Expected)</td>
-</tr>
-<tr>
-<td>Class XII — Asha Modern School, Saharanpur (92.8%)</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>Class X — Asha Modern School, Saharanpur (96%)</td>
-<td>2024</td>
-</tr>
-</table>
-
-**Certifications & Achievements**
-
-🏅 Quest for Purpose — IIT Kharagpur (2024)
-🏅 Full Stack Web Development by Angela Yu (2025)
-🏅 Top-performing student in the IT branch
-🌟 Active Contributor — GirlScript Summer of Code (2026)
 
 <br/>
 
