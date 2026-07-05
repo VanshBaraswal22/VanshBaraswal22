@@ -1,0 +1,97 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05010d"/>
+      <stop offset="50%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#0d0221"/>
+    </linearGradient>
+
+    <linearGradient id="neonText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff2">
+        <animate attributeName="stop-color" values="#00fff2;#ff2bd6;#9d4edd;#00fff2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ff2bd6">
+        <animate attributeName="stop-color" values="#ff2bd6;#9d4edd;#00fff2;#ff2bd6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#9d4edd">
+        <animate attributeName="stop-color" values="#9d4edd;#00fff2;#ff2bd6;#9d4edd" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur1"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2148" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.5">
+    <animate attributeName="y" values="0;40;0" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scanning horizontal line -->
+  <rect x="0" y="0" width="1200" height="2" fill="#00fff2" opacity="0.6">
+    <animate attributeName="y" values="0;320;0" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner HUD brackets -->
+  <g stroke="#00fff2" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 20 20 L 20 55 M 20 20 L 55 20"/>
+    <path d="M 1180 20 L 1180 55 M 1180 20 L 1145 20"/>
+    <path d="M 20 300 L 20 265 M 20 300 L 55 300"/>
+    <path d="M 1180 300 L 1180 265 M 1180 300 L 1145 300"/>
+  </g>
+
+  <!-- floating particles -->
+  <circle cx="100" cy="80" r="3" fill="#00fff2" filter="url(#softGlow)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="90" r="2.5" fill="#ff2bd6" filter="url(#softGlow)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,18; 0,0" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="250" r="2" fill="#9d4edd" filter="url(#softGlow)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 15,0; 0,0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="240" r="3" fill="#00fff2" filter="url(#softGlow)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -18,0; 0,0" dur="4.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="50" r="2" fill="#ff2bd6" filter="url(#softGlow)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,15; 0,0" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main Title -->
+  <text x="600" y="150" font-family="'Segoe UI', 'Trebuchet MS', sans-serif" font-size="66" font-weight="800" fill="url(#neonText)" filter="url(#glow)" text-anchor="middle" letter-spacing="3">
+    VANSH BARASWAL
+  </text>
+
+  <!-- Subtitle line -->
+  <text x="600" y="195" font-family="'Consolas', monospace" font-size="20" fill="#8be9fd" text-anchor="middle" letter-spacing="1" opacity="0.9">
+    &lt; Full-Stack Developer • AI/ML Explorer • DSA Problem-Solver /&gt;
+  </text>
+
+  <!-- animated underline -->
+  <line x1="350" y1="215" x2="850" y2="215" stroke="url(#neonText)" stroke-width="2" filter="url(#softGlow)">
+    <animate attributeName="x1" values="600;350;600" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="600;850;600" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="600" y="260" font-family="'Consolas', monospace" font-size="14" fill="#6f7bb3" text-anchor="middle" letter-spacing="2">
+    B.TECH IT · HBTU KANPUR · 2024–2028
+  </text>
+</svg>
