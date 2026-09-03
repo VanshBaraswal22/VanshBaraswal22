@@ -31,7 +31,7 @@
 identity:
   name: Vansh Baraswal
   role: Full-Stack Developer
-  university: HBTU Kanpur (B.Tech IT, 2024–2028 | CGPA 7.6)
+  university: HBTU Kanpur (B.Tech IT, 2024–2028 )
   status: "Actively building & leveling up 🚀"
 
 focus:
