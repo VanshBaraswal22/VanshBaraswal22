@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FFF2&background=0D0221&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%3E+Initializing+Vansh_Baraswal.exe...;%3E+Loading+React+%2B+Node+%2B+MongoDB+modules;%3E+Compiling+350%2B+DSA+solutions...;%3E+System+ready.+Let%27s+build+something+epic+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FFF2&background=0D0221&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%3E+Initializing+Vansh_Baraswal.exe...;%3E+Loading+React+%2B+Node+%2B+MongoDB+modules;%3E+Building+full-stack+projects...;%3E+System+ready.+Let%27s+build+something+epic+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
@@ -30,19 +30,18 @@
 ```yaml
 identity:
   name: Vansh Baraswal
-  role: Full-Stack Developer | AI-ML Explorer
-  university: HBTU Kanpur (B.Tech IT, 2024–2028)
+  role: Full-Stack Developer
+  university: HBTU Kanpur (B.Tech IT, 2024–2028 | CGPA 7.6)
   status: "Actively building & leveling up 🚀"
 
 focus:
-  - Full-stack apps → React · Node.js · Express · MongoDB
-  - Backend systems → Django · REST APIs
-  - ML fundamentals → Python · Pandas · NumPy
-  - DSA grind → 350+ problems solved and climbing
+  - Full-stack apps → React · Node.js · Express · MongoDB · MySQL
+  - REST APIs → JWT Auth · Socket.IO · Webhooks
+  - Data & AI tools → Python · Pandas
 
 currently:
-  contributing_to: GirlScript Summer of Code
-  exploring: Machine Learning & System Design
+  contributed_to: GirlScript Summer of Code (GSSoC 2026)
+  interned_at: 1M1B (Green Skills & Applied AI) · SkillNexis (Full Stack MERN)
   open_to: Collaboration, Hackathons, Internships
 ```
 
@@ -70,29 +69,25 @@ currently:
 <img src="https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=ff2bd6"/>
 <img src="https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=9d4edd"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0d0221?style=for-the-badge&logo=tailwindcss&logoColor=00fff2"/>
 
 **Backend & Data**
 
 <img src="https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=ff2bd6"/>
 <img src="https://img.shields.io/badge/Express.js-0d0221?style=for-the-badge&logo=express&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/Django-0d0221?style=for-the-badge&logo=django&logoColor=9d4edd"/>
 <img src="https://img.shields.io/badge/MongoDB-0d0221?style=for-the-badge&logo=mongodb&logoColor=ff2bd6"/>
+<img src="https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge&logo=mysql&logoColor=9d4edd"/>
 
-**Problem Solving**
+**Data & AI Tools**
 
-<img src="https://img.shields.io/badge/DSA-350%2B_Solved-0d0221?style=for-the-badge&logo=leetcode&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/Data_Structures-0d0221?style=for-the-badge&logo=codeforces&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/Algorithms-0d0221?style=for-the-badge&logo=hackerrank&logoColor=9d4edd"/>
+<img src="https://img.shields.io/badge/Pandas-0d0221?style=for-the-badge&logo=pandas&logoColor=00fff2"/>
+<img src="https://img.shields.io/badge/NumPy-0d0221?style=for-the-badge&logo=numpy&logoColor=ff2bd6"/>
 
-**Tools & Deploy**
+**Tools**
 
 <img src="https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/VS_Code-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=9d4edd"/>
-<img src="https://img.shields.io/badge/Postman-0d0221?style=for-the-badge&logo=postman&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/Netlify-0d0221?style=for-the-badge&logo=netlify&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/Render-0d0221?style=for-the-badge&logo=render&logoColor=9d4edd"/>
+<img src="https://img.shields.io/badge/JWT-0d0221?style=for-the-badge&logo=jsonwebtokens&logoColor=9d4edd"/>
+<img src="https://img.shields.io/badge/Socket.IO-0d0221?style=for-the-badge&logo=socketdotio&logoColor=00fff2"/>
 
 </td></tr>
 </table>
@@ -109,7 +104,7 @@ currently:
 
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20)
 
-## 🚀 FEATURED BUILD
+## 🚀 FEATURED BUILDS
 
 <div align="center">
 
@@ -119,9 +114,36 @@ currently:
 
 <img src="https://img.shields.io/badge/◆_PROJECT_SPOTLIGHT-0d0221?style=for-the-badge&logoColor=00fff2"/>
 
+### ⚙️ FlowOps
+
+#### Industrial Operations Workflow Platform
+
+<img src="https://img.shields.io/badge/Type-Full--Stack-0d0221?style=flat-square&logoColor=00fff2"/>
+<img src="https://img.shields.io/badge/Year-2026-0d0221?style=flat-square&logoColor=ff2bd6"/>
+
+<br/><br/>
+
+A full-stack platform for visually creating and managing simulated industrial workflows for equipment alerts, inspections, and maintenance activities — with configurable triggers, conditional steps, JWT auth, webhook-based events, and real-time execution monitoring via Socket.IO.
+
+<br/>
+
+`React` `Node.js` `Express.js` `MongoDB` `React Flow` `Socket.IO` `JWT`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" style="padding: 28px;">
+
+<img src="https://img.shields.io/badge/◆_PROJECT_SPOTLIGHT-0d0221?style=for-the-badge&logoColor=ff2bd6"/>
+
 ### 🔮 GridSage AI
 
-#### ⚡ Electricity Demand Forecasting Engine
+#### Electricity Demand Forecasting Engine
 
 <img src="https://img.shields.io/badge/Team-6_Members-0d0221?style=flat-square&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/Domain-Time--Series_ML-0d0221?style=flat-square&logoColor=ff2bd6"/>
@@ -142,6 +164,60 @@ A collaborative research build that models electricity demand using time-series 
 <br/>
 
 `Python` `Pandas` `NumPy` `Machine Learning` `Time-Series Analysis`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" style="padding: 28px;">
+
+<img src="https://img.shields.io/badge/◆_PROJECT_SPOTLIGHT-0d0221?style=for-the-badge&logoColor=9d4edd"/>
+
+### 🔁 ShiftSwap
+
+#### Employee Shift Exchange Platform
+
+<img src="https://img.shields.io/badge/Type-Full--Stack-0d0221?style=flat-square&logoColor=00fff2"/>
+<img src="https://img.shields.io/badge/Year-2026-0d0221?style=flat-square&logoColor=ff2bd6"/>
+
+<br/><br/>
+
+Lets employees view assigned shifts, request shift swaps, and track request status. Approval workflow supports pending, approved, rejected, and cancelled states through an interactive React dashboard, backed by MySQL.
+
+<br/>
+
+`React` `Node.js` `Express.js` `MySQL` `JWT`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" style="padding: 28px;">
+
+<img src="https://img.shields.io/badge/◆_PROJECT_SPOTLIGHT-0d0221?style=for-the-badge&logoColor=00fff2"/>
+
+### 📋 Project Management Dashboard
+
+#### MERN Kanban-Style Task Tracker
+
+<img src="https://img.shields.io/badge/Type-Full--Stack-0d0221?style=flat-square&logoColor=00fff2"/>
+<img src="https://img.shields.io/badge/Year-2026-0d0221?style=flat-square&logoColor=ff2bd6"/>
+
+<br/><br/>
+
+MERN-based dashboard for creating projects, organizing tasks, and tracking progress through a Kanban-style interface — with REST APIs, MongoDB persistence, JWT auth, and drag-and-drop task organization.
+
+<br/>
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
 
 </td>
 </tr>
@@ -175,11 +251,24 @@ A collaborative research build that models electricity demand using time-series 
 
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20)
 
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_Hackathon_Winner-PW_IOI_Noida_2026-0d0221?style=for-the-badge&logoColor=00fff2"/>
+<img src="https://img.shields.io/badge/🌱_GSSoC-Participant_2026-0d0221?style=for-the-badge&logoColor=ff2bd6"/>
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,12,20)
+
 ## 📶 TRANSMISSION CHANNEL
 
 <div align="center">
 
-Always down to collaborate on **full-stack builds, DSA challenges, or ML experiments**.
+Always down to collaborate on **full-stack builds or ML experiments**.
 Open a channel — hackathon team, project collab, or just a tech conversation.
 
 <a href="https://linkedin.com/in/vansh-baraswal"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff2"/></a>
